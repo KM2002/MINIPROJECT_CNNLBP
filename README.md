@@ -8,4 +8,5 @@ Download it in your system and then change the path accordingly.
 https://drive.google.com/drive/folders/1-UM8beYl9jQqthEREgga2uvPxTDFSiVM?usp=share_link
 
 copy this code in your terminal to download the files in your system
-git clone https://github.com/KM2002/MINIPROJECT_CNNLBP.git
+
+"git clone https://github.com/KM2002/MINIPROJECT_CNNLBP.git"
