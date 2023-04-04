@@ -1,5 +1,8 @@
 # MINIPROJECT_CNNLBP
 
+**DISCLAIMER 
+THIS CODE ISNOT WRITTEN ENITRELY BY ME**
+
 The first code is for Convolutional Neural Network using fer2013 dataset and the second one is for Multi-block local binary pattern.
 
 Here are the links for the dataset. 
